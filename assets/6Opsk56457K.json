@@ -1,4 +1,4 @@
 {
-    "key1": {"username": "user1", "role": "admin"},
-    "key2": {"username": "user2", "role": "user"}
+    "key1": {"username": "Tim", "role": "Owner"},
+    "key2": {"username": "SrFox", "role": "Administrator"}
 }
